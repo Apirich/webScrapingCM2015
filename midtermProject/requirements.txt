@@ -1,0 +1,37 @@
+# from selenium import webdriver
+# from selenium.webdriver.chrome.service import Service
+# from selenium.webdriver.common.by import By
+Use selenium webdriver to automatically control Chrome browser.
+
+# import urllib3
+Use urllib3 for http protocol to get a web page from the url.
+
+# from bs4 import *
+Use beautifulsoup to parser the response from the url, and look for target elements to scrape data.
+
+# import urllib.parse
+# from urllib.parse import urljoin
+# from urllib.parse import urlparse
+Use ullib.parse to join and parse URL.
+
+# import json
+Use json to write and read json file.
+
+# import time
+Use time to make the program sleep between scraping each page so the web server will not look at it at a bot.
+
+# import datetime
+# from datetime import datetime, timedelta
+Use datetime to auto subtract a day from the current date
+
+# import os
+Use os to get all json file in the current working directory
+
+# import pandas as pd
+Use pandas to process data from json files
+
+# import numpy as np
+Use numpy to calculate mean and standard deviation
+
+# import matplotlib.pyplot as plt
+Use matplotlib to plot data into graphs
